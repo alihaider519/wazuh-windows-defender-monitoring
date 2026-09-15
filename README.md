@@ -1,3 +1,5 @@
+<img width="966" height="197" alt="2 1" src="https://github.com/user-attachments/assets/72c32062-2387-4b47-bb36-a2152f7bf15c" />
+<img width="966" height="71" alt="2" src="https://github.com/user-attachments/assets/70729910-b8d5-439d-b337-82a4c77d1fe3" />
 # Windows Defender Security Monitoring with Wazuh
 
 ## Overview
