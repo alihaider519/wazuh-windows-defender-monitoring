@@ -1,5 +1,3 @@
-<img width="966" height="197" alt="2 1" src="https://github.com/user-attachments/assets/72c32062-2387-4b47-bb36-a2152f7bf15c" />
-<img width="966" height="71" alt="2" src="https://github.com/user-attachments/assets/70729910-b8d5-439d-b337-82a4c77d1fe3" />
 # Windows Defender Security Monitoring with Wazuh
 
 ## Overview
@@ -12,6 +10,7 @@ This project is a hands-on Windows security monitoring lab built using **Wazuh S
 - **Endpoint:** Windows
 - **Agent Name:** `windows112`
 - **Monitoring:** Windows Defender security events
+- **Network Details:** Private lab network information is intentionally excluded.
 
 ## What I Monitored
 
@@ -41,7 +40,7 @@ The lab focused on Windows Defender activity, including:
 
 ## Evidence
 
-Screenshots of the Wazuh alerts and Windows Defender events will be added here as project evidence.
+Screenshots can be added here after confirming that they contain no private network addresses or other sensitive infrastructure details.
 
 ## Key Takeaway
 
@@ -49,4 +48,4 @@ This project demonstrates practical experience using Wazuh to monitor Windows en
 
 ## Disclaimer
 
-This project was created for educational and hands-on cybersecurity learning purposes in a controlled lab environment.
+This project was created for educational and hands-on cybersecurity learning purposes in a controlled lab environment. Private network addressing and other sensitive infrastructure details are intentionally excluded from this public repository.
